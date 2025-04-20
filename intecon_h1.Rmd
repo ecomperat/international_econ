@@ -1,0 +1,27 @@
+---
+title: "International Economics - H1: Empirical Exercise - market potential and development"
+author: "Etienne Compérat"
+date: "2025-04-19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = "C:/Users/etien/OneDrive/Documents/GitHub/international_econ")
+setwd("C:/Users/etien/OneDrive/Documents/GitHub/international_econ")
+```
+
+
+# Prompt
+
+The goal is to replicate Redding and Venables (2004) regressions and graphs for a recent set of years. The
+dataset is an updated version of the one in Head and Mayer (2011), with international trade only (no self
+trade), so that the Foreign Market Potential (FMP) can be calculated.
+
+a. Calculate FMP of each country in 2016 and regress it on GDP per capita (in log-log)
+
+b. Replicate the exercise with all years since 2004. Which fixed effects can you now
+introduce in the second step? does it change results ?
+
+# a. Calculate FMP of each country in 2016 and regress it on GDP per capita (in log-log)
+
