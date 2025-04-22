@@ -14,8 +14,7 @@
    * Read data
 
    clear
-   u "C:/Users/etien/OneDrive/Documents/GitHub/international_econ/data/biltrade.dta"
-   
+   u "C:/Users/etien/OneDrive/Documents/GitHub/international_econ/data/biltrade.dta"  
    cd "C:/Users/etien/OneDrive/Documents/GitHub/international_econ/data"
  
  
